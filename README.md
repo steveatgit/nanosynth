@@ -8,6 +8,8 @@ For a detailed description of how it works, check out this blog post: [http://ww
 
 * Download `nanosynth.rb`
 * Install the [WaveFile gem](http://wavefilegem.com): `gem install wavefile`
+* need to install 0.6.0 version, select 0.6.0 version, then copy "INSTALL" command in right row
+* gem install wavefile -v 0.6.0
 
 # Example Usage
 
